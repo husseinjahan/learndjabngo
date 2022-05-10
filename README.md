@@ -1,3 +1,3 @@
-# learndjabngo
+# Learn django
 
-learn django by creating sample projectss from sjango site and other tutorial sites
+Learn django by creating sample projects from django site and other tutorial sites
